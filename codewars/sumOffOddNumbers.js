@@ -12,3 +12,4 @@
 // 2 --> 3 + 5 = 8
 
 const sumOfOddNumbers = n => n * n * n;
+
