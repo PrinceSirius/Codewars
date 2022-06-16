@@ -1,0 +1,1 @@
+const average = num => num.length === 0 ? 0 : num.reduce((a,b) => a + b,0)/num.length;
