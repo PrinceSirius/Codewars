@@ -8,7 +8,7 @@
 // Notes
 // Assertion messages may be unclear about what they display in some languages. If you read "...It Should encode XXX", the "XXX" is the expected result, not the input!
 
-function duplicateEncode(word){
+function dupEncode(word){
     //create a var to hold string value that IGNORES case
     let string = word.toLowerCase();
     //create a var to hold the finished string to return after it's looped through
